@@ -32,8 +32,11 @@
 
 * 음악 선택 화면
 <img src ="./img/select_1.PNG">
+음악 선택 화면
 <img src ="./img/select_2.PNG">
+난이도 선택 화면
 <img src ="./img/select_3.PNG">
+음악과 난이도를 선택하면 게임 시작 버튼이 활성화 된다.
 
 <br>
 
