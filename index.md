@@ -23,10 +23,27 @@
 * 동영상
 
 <br><br>
-# [대표 이미지]
+# [인게임 이미지]
+<img src ="./img/gms.PNG">
+
+* 게임 시작 화면
+<br>
+
+<img src ="./img/select_1.PNG">
+<img src ="./img/select_2.PNG">
+<img src ="./img/select_3.PNG">
+
+* 음악 선택 화면
+<br>
+
 <img src ="./img/gm.PNG">
 
 * 실제 게임 화면
+<br>
+
+<img src ="./img/gms.PNG">
+
+* 음악 선택 화면
 
 <img src ="./img/gms.PNG">
 
