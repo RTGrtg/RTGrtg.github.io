@@ -43,12 +43,12 @@
 
 * 실제 게임 화면
 <img src ="./img/gm.PNG">
-
+음악에 맞춰 노트가 내려온다.
 <br>
 
 <img src ="./img/game_2.PNG">
 
-키 입력 시 라인이 빛난다.
+키 입력 시 라인이 빛나고 판정 성공 시 콤보 수가 올라간다.
 
 <img src ="./img/gms.PNG">
 
