@@ -49,10 +49,11 @@
 <img src ="./img/game_2.PNG">
 
 키 입력 시 라인이 빛나고 판정 성공 시 콤보 수가 올라간다.
+<br><br>
 
+* 결과 화면
 <img src ="./img/gms.PNG">
 
-* 음악 선택 화면
 
 <br><br>
 
