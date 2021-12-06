@@ -27,8 +27,8 @@
 
 * 게임 시작 화면
 <img src ="./img/start.PNG">
-
-<br>
+아무 키나 입력해서 음악 선택 화면으로 진행할 수 있다.
+<br><br>
 
 * 음악 선택 화면
 <img src ="./img/select_1.PNG">
