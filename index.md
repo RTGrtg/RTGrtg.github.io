@@ -42,9 +42,8 @@
 
 <br>
 
-<img src ="./img/gms.PNG">
-
-* 음악 선택 화면
+<img src ="./img/game_2.PNG">
+키 입력 시 라인이 빛난다.
 
 <img src ="./img/gms.PNG">
 
