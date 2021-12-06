@@ -24,21 +24,22 @@
 
 <br><br>
 # [인게임 이미지]
-<img src ="./img/gms.PNG">
 
 * 게임 시작 화면
+<img src ="./img/start.PNG">
+
 <br>
 
+* 음악 선택 화면
 <img src ="./img/select_1.PNG">
 <img src ="./img/select_2.PNG">
 <img src ="./img/select_3.PNG">
 
-* 음악 선택 화면
 <br>
 
+* 실제 게임 화면
 <img src ="./img/gm.PNG">
 
-* 실제 게임 화면
 <br>
 
 <img src ="./img/gms.PNG">
