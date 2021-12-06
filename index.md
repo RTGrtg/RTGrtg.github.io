@@ -76,7 +76,7 @@
 |-----:|:-----:|-----|  
 |1|일반 노트(왼쪽)|<img src = "./img/note1.png">|  
 |2|일반 노트(오른쪽)|<img src="./img/note2.png">|  
-|3|회복 노트|<img src="./img/scsc.png" width="30">|  
+|3|회복 노트|<img src="./img/note3.png">|  
 |4|체력|<img src="./img/66.PNG" width="50">|  
 |5|피버 게이지|<img src="./img/schedule.PNG" width="500">|  
 
