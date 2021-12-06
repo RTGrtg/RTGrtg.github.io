@@ -40,6 +40,7 @@
 
 <br>
 <br>
+
 * 실제 게임 화면
 <img src ="./img/gm.PNG">
 
