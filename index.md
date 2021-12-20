@@ -125,7 +125,7 @@
 
 ## [노트 판정 알고리즘]
 
-<img src ="./img/flowchart.png">
+<img src ="./img/flowchart.PNG">
 
 ## [게임의 규칙]
 
