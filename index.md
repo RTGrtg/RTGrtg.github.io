@@ -47,20 +47,20 @@
 <br>
 
 * 게임 플레이 화면
-<img src ="./img/gm.PNG">
+<img src ="./img/game_1.jpg">
 - 음악에 맞춰 노트가 내려온다.<br><br>
 - 플레이어가 획득한 점수가 상단에 표시된다.<br><br>
 - 노트 판정이 점수 하단에 표시된다.<br><br>
 - 플레이어가 연속으로 판정에 성공한 횟수(콤보)가 화면 중앙에 표시된다.<br><br>
 <br>
 
-<img src ="./img/game_2.PNG">
+<img src ="./img/game_2.jpg">
 
 키 입력 시 라인이 빛나고 판정 성공 시 콤보 수가 올라간다.<br><br>
 <br><br>
 
 * 결과 화면
-<img src ="./img/gms.PNG">
+<img src ="./img/result.PNG">
 - 최종 결과 점수가 화면에 표시된다.<br><br>
 - 하단의 돌아가기 버튼 클릭 시 곡 선택 화면으로 돌아갈 수 있다.
 
